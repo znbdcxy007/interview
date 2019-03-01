@@ -141,6 +141,7 @@ public class StringConstantDemo {
          * 然后append循环体中的常量
          * 这样提高了每个循环中的对象创建和丢弃的性能
          */
+
         StringBuilder stringBuilder = new StringBuilder();
         stringBuilder.append("my");
         for (int i = 0; i < index; i++) {

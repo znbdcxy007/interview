@@ -1,4 +1,4 @@
-package com.interview.exercise.se;
+package com.interview.exercise.fundation;
 
 import java.util.HashMap;
 

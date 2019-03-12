@@ -41,7 +41,7 @@ public class UseCountDownLatch {
         executorService.execute(laoWang);
         executorService.execute(laoZhao);
         executorService.execute(boss);
-        
+
         executorService.shutdown();
 
     }
